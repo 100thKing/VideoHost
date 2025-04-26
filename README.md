@@ -18,9 +18,9 @@ Linux
 python3 -m venv venv
 source venv\bin\activate
 
-pip install -r versions.txt
+pip3 install -r versions.txt
 
-python manage.py runserver
+python3 manage.py runserver
 ```
 
 ## Web сайт
